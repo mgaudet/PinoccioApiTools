@@ -1,7 +1,7 @@
-PinnocioApiTools
+PinoccioApiTools
 ================
 
 
-Some simple tools for working with the Pinnocio API
+Some simple tools for working with the Pinoccio API
 
 
